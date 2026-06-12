@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Clara Ghoussoub
 
-<!--
-**claraghoussoubai/claraghoussoubai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Developer focused on:
+- Machine Learning
+- Computer Vision
+- NLP
+- Generative AI
 
-Here are some ideas to get you started:
+## Currently
+Sharpening my skills through hands-on projects and continuous learning — building real systems, not just studying theory.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+### THRIVE
+AI-powered wellness, habit, and finance tracking mobile app — graduation project. [View repo](https://github.com/claraghoussoubai/THRIVE)
+
+### Portfolio
+My personal site, showcasing projects and progress. [View site](https://claraghoussoubai.github.io/claraghoussoubportfolio.github.io/)
+
+## Tech Stack
+Python • Flutter/Dart • Firebase • Machine Learning • Computer Vision • NLP
+
+## Connect
+- [LinkedIn](https://www.linkedin.com/in/clara-ghoussoub/)
+- Email: clara.ghoussoub.ai@gmail.com
